@@ -66,6 +66,24 @@ body {
     margin-top: 3%;
 }
 
+.cn {
+    font-family: Bebas; 
+    text-decoration: none; 
+    color: white;
+}
+
+p.cnt1 {
+    margin-top: 0px;
+}
+
+p.cnt:hover {
+    color: rgb(75, 75, 75);
+}
+
+p.cnt1:hover {
+    color: rgb(75, 75, 75);
+}
+
 .tel {
     margin-top: 1.0%;
     font-size: 20px;
